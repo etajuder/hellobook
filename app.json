@@ -1,0 +1,8 @@
+{
+  "name": "Hellobooks - API-Routes",
+  "description": "A simple app that helps manage a library and its processes like stocking, tracking and renting books.",
+  "repository": "https://github.com/dbrandydude/hellobooks.git",
+  "logo": "",
+  "keywords": ["Hellobooks", "andela", "books"],
+  "image": "heroku/nodejs"
+}
